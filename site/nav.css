@@ -1,0 +1,33 @@
+#top-section .container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 2em;
+    max-width: initial;
+}
+
+#top-section .container ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+#top-section .container header a{
+    font-size: 2.2em;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+}
+
+#top-section .container ul li{
+    padding: 0.7em 1.5em 0 1.5em;
+}
+
+#top-section .container ul li a{
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+#top-section .container ul li a:hover{
+    color: #FF0000;
+}

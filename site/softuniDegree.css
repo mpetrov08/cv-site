@@ -1,0 +1,27 @@
+#softuniDegree-section .container .content ul{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+#softuniDegree-section .container .content ul li{
+    padding: 1.5em 0 1em 0;
+}
+
+#softuniDegree-section .container .content ul li:first-child{
+    justify-self: center;
+}
+
+#softuniDegree-section .container .content ul li img{
+    width: 350px;
+    height: 500px;
+}
+
+
+#softuniDegree-section .container .content ul li a{
+    display: block;
+}
+
+#softuniDegree-section .container .content ul li a:hover{
+    color: #C47A23;
+}

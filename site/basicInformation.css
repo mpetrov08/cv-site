@@ -1,0 +1,11 @@
+#basicInformation-section .container .content{
+    display: flex;
+    flex-direction: row;
+}
+
+#basicInformation-section .container .textContent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 5em;
+}

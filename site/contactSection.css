@@ -1,0 +1,11 @@
+#contact-section .container header{
+    margin-bottom: 1em;
+}
+
+#contact-section .container .content ul li i{
+    padding-right: 0.7em;
+}
+
+#contact-section .container .content ul li a:hover{
+    color: #0CA4A5;
+}
